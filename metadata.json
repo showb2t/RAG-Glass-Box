@@ -1,0 +1,8 @@
+{
+  "name": "RAG Glass Box",
+  "description": "An interactive educational workbench that executes a real Retrieval-Augmented Generation (RAG) pipeline with Google Gemini while visually exposing chunking, embeddings, 2D vector space, retrieval math, prompt assembly, and grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
